@@ -1,12 +1,32 @@
-## Hi there 👋
 
-<!--
+# 수어리움: 모두를 위한 AI 수어 번역 플랫폼
 
-**Here are some ideas to get you started:**
+**수어리움**은 수어(Sign Language)와 아트리움(Atrium)의 합성어로,  
+모든 사람이 소통의 중심에 설 수 있도록 돕는 **AI 기반 수어 번역 및 학습 서비스**입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 프로젝트 목표
+- 청각 장애인과 비장애인 간의 **의사소통 장벽 해소**
+- **실시간 수어 인식**과 자연스러운 **문장 단위 번역**
+- **수어 학습 기능 통합**으로 학습자에게도 실질적 도움 제공
+
+## 핵심 기술
+- **MediaPipe** 기반 키포인트 추출
+- **GRU 기반 딥러닝 모델**을 통한 시계열 수어 인식
+- **Gemini API**를 활용한 자연어 처리 및 다국어 번역
+
+## 주요 기능
+- 수어 → 텍스트 → 자연어 문장 생성 (다국어 지원)
+- 실시간 수어 인식 및 자막 생성
+- 수어 학습 콘텐츠 통합 제공 (단어/문장 중심)
+
+## 차별성
+- 번역 + 교육 **통합형 서비스**
+- 고가 장비 없이 **카메라 기반 수어 인식**
+- 사회적 포용성과 교육 효과를 동시에 달성
+
+## 활용 분야
+- 학교, 병원, 공공기관, 일반 가정, 온라인 학습 플랫폼
+
+
+👉 모두가 함께 이해하고 소통하는 **포용적 기술 환경**,  
+**수어리움**이 그 중심이 되겠습니다.
